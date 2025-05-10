@@ -47,4 +47,4 @@ Data Dictionary:
 ## Export notebook to a HTML file
 
 ``` cd .\credit-card-churn-prediction\ ```
-``` jupyter nbconvert --execute --to html .\AML_Project_LearnerNotebook_FullCode.ipynb ```
+``` jupyter nbconvert --execute --to html .\credit_card_churn_prediction.ipynb ```
